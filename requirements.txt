@@ -50,7 +50,7 @@ tqdm==4.66.1
 typing_extensions==4.7.1
 tzdata==2023.3
 ultralytics==8.0.151
-urllib3==2.1.0
+urllib3==2.0.7
 uvicorn==0.24.0.post1
 watchfiles==0.21.0
 websockets==12.0
