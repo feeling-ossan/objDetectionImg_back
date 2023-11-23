@@ -12,7 +12,7 @@ filelock==3.12.2
 fonttools==4.38.0
 fsspec==2023.1.0
 h11==0.14.0
-httptools==0.6.1
+httptools==0.6.0
 idna==3.4
 importlib-resources==6.1.1
 Jinja2==3.1.2
